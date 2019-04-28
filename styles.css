@@ -1,0 +1,31 @@
+.menu{
+    display:flex;
+    justify-content:space-around;
+    border:5px solid black;
+    color: white;
+    background-color: red;
+}
+
+.inputs{
+    display:flex;
+    justify-content:space-around;
+}
+input{
+margin: 20px;  
+}
+img{
+width: 20%;
+height: 20%; 
+}
+.items{
+
+ justify-content: space-around;
+}
+.title{
+ text-align: center;
+}
+.indiv{
+display:flex;
+
+justify-content: space-around;
+}
